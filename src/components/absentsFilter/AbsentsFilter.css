@@ -1,0 +1,16 @@
+.abs-range .selection .min,
+.abs-range .selection .max {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.abs-range .selection .min span,
+.abs-range .selection .max span {
+  font-weight: 800;
+  font-size: 17px;
+  margin: 0 5px;
+  color: rgb(255, 145, 0);
+}
+#min, #max {
+  padding: 0; 
+}
